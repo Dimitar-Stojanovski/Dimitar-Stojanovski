@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dimitar-Stojanovski
-- 👀 I’m interested in ...Automation Testing
+- 👀 I’m interested in ...Manual and Automation Testing
 - 🌱 I’m currently learning ...Java, Javascript and C#
 - 💞️ I’m looking to collaborate on ...both free-lancing and long-term engagement.
 - 📫 How to reach me ...dimitar.stojanovski77@gmail.com
