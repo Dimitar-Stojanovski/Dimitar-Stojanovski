@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dimitar-Stojanovski
-- 👀 I’m interested in ...Manual and Automation Testing
-- 🌱 I’m currently learning ...C#, Java, API Testing
-- 💞️ I’m looking to collaborate on ...both free-lancing and long-term engagement.
+- 👀 I’m interested in ...Test Automation
+- 🌱 I’m currently learning ...Selenium, Playwright and Cypress
 - 📫 How to reach me ...dimitar.stojanovski77@gmail.com
 
 <!---
