@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dimitar-Stojanovski
 - 👀 I’m interested in ...Test Automation
-- 🌱 I’m currently learning ...Selenium, Playwright and Cypress
 - 📫 How to reach me ...dimitar.stojanovski77@gmail.com
 
 <!---
